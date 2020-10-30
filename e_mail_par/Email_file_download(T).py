@@ -13,7 +13,7 @@ class FetchEmail():
 
     def __init__(self, mail_server, username, password):
         self.connection = imaplib.IMAP4_SSL('imap.gmail.com')
-        self.connection.login('kimgs243@gmail.com', 'lizrrkqakqbjshkv')
+        self.connection.login('kimgs243@gmail.com', 'mypassword')
         self.connection.select(readonly=False)  # 메일을 읽은 상태로 표시
         self.save_attachment(self.connection)
 
