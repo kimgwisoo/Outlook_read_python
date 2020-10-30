@@ -8,7 +8,7 @@ config['Gmail'] = {}
 
 # option, value 생성 방법 1
 config['Gmail']['ID'] = 'kimgs243@gmail.com'
-config['Gmail']['PW'] = 'lizrrkqakqbjshkv'
+config['Gmail']['PW'] = 'mypassword'
 
 # option, value 생성 방법 2
 Gmail = config['Gmail']
