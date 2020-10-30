@@ -13,7 +13,7 @@ def findEncodingInfo(txt):
 # 메일 서버 로그인
 imap = imaplib.IMAP4_SSL('imap.gmail.com')
 id = 'kimgs243@gmail.com'
-pw = 'lizrrkqakqbjshkv'
+pw = 'mypassword'
 imap.login(id, pw)
 
 # 받은 편지함
