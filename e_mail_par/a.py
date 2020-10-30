@@ -3,7 +3,7 @@ import email
 import os
 
 user = 'kimgs243@gmail.com'
-password = 'lizrrkqakqbjshkv'
+password = 'mypassword'
 imap_url = 'imap.gmail.com'
 # Where you want your attachments to be saved (ensure this directory exists)
 attachment_dir = 'D:\개인\Work-2\Download'
