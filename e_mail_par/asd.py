@@ -6,7 +6,7 @@ import sys
 # Your IMAP Settings
 host = 'imap.gmail.com'
 user = 'kimgs243@gmail.com'
-password = 'lizrrkqakqbjshkv'
+password = 'mypassword'
 
 # Connect to the server
 print('Connecting to ' + host)
